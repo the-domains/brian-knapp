@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Gary Weber
-    url: 'https://www.youtube.com/user/gudakesha7'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=EK8pcUt4gio'
+inLanguage: en
 keywords:
   - weber
   - duration
@@ -27,7 +22,13 @@ description: >-
   self-referential internal narrative, fears, and desires and function more
   clearly and effectively, operating in "now, now, now" from a place of peace,
   presence and stillness.
-inLanguage: en
+datePublished: '2016-06-08T17:21:46.480Z'
+dateModified: '2016-06-08T17:21:39.607Z'
+author:
+  - name: Gary Weber
+    url: 'https://www.youtube.com/user/gudakesha7'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=EK8pcUt4gio&feature=applinks'
     type: ios
@@ -65,17 +66,19 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=EK8pcUt4gio'
 title: Upgrading Your Mental Operating System
-datePublished: '2016-06-08T17:16:30.717Z'
-dateModified: '2016-06-08T17:11:02.729Z'
-starred: false
 sourcePath: _posts/2016-06-08-upgrading-your-mental-operating-system.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FEK8pcUt4gio%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEK8pcUt4gio&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEK8pcUt4gio%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/975f81db-9f38-4e16-b31b-244ab1fbe10c.jpg)

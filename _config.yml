@@ -1,0 +1,28 @@
+name: Brian Knapp
+favicon: null
+layout_spectrum: 0.5380665557458997
+typography_spectrum: 0.37138774362392724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.1955456028226763
+  lightness: 0.7132989349775016
+  saturation: 0.6247822009027004
+  rhythmicContrast: 0.8194990779738873
+purpose: []

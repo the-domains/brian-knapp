@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  Life is a mirror and will reflect back to the thinker what he thinks into it.
+  Life is a mirror and will reflect back to the thinker what he thinks into it. 
   Ernest Holmes
-datePublished: '2016-06-08T16:23:51.085Z'
-dateModified: '2016-06-08T16:14:20.105Z'
+datePublished: '2016-06-08T16:42:46.695Z'
+dateModified: '2016-06-08T16:24:01.154Z'
 title: ''
 author: []
 sourcePath: >-

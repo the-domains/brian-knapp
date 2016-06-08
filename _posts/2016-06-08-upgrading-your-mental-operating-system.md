@@ -22,8 +22,8 @@ description: >-
   self-referential internal narrative, fears, and desires and function more
   clearly and effectively, operating in "now, now, now" from a place of peace,
   presence and stillness.
-datePublished: '2016-06-08T17:21:46.480Z'
-dateModified: '2016-06-08T17:21:39.607Z'
+datePublished: '2016-06-08T17:23:30.420Z'
+dateModified: '2016-06-08T17:23:29.551Z'
 author:
   - name: Gary Weber
     url: 'https://www.youtube.com/user/gudakesha7'
@@ -80,5 +80,3 @@ _context: 'http://schema.org'
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FEK8pcUt4gio%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEK8pcUt4gio&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEK8pcUt4gio%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/975f81db-9f38-4e16-b31b-244ab1fbe10c.jpg)
